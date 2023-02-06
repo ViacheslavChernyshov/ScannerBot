@@ -1,4 +1,4 @@
-package com.scannerbot.ScannerBot;
+package com.scannerbot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
